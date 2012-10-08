@@ -16,7 +16,7 @@ This respository only contains the basic files. This way its easier to update th
 
 ## Author
 
-[Joao Stein](http://twitter.com/joaostein)
+* [Joao Stein](http://twitter.com/joaostein)
 
 ## Copyright
 
