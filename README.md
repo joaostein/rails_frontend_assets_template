@@ -1,6 +1,6 @@
-# Rails Frontend assets/views repository
+# Rails Frontend Assets Template
 
-This is a support repository to the Rails Quick Start Frontend Template (https://github.com/joaostein/frontend_template) It includes:
+This is a support repository to the Rails Frontend Quick Start Template (https://github.com/joaostein/rails_frontend_quickstart_template) It includes:
 
 * Slim
   * Application layout based on HTML 5 boilerplate - (http://html5boilerplate.com/)
